@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 Here are a few projects I've worked on:
 
-- **[Project Name](https://github.com/RvTechiNNovate/notfound):**Comming  soon.
+- **[Project Name](https://github.com/RvTechiNNovate/notfound):** Comming  soon.
 - **[Another Project](https://github.com/RvTechiNNovate/notfound):** Comming  soon.
 
 Feel free to check out my repositories for more of my work!
