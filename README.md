@@ -10,14 +10,14 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 - 🌱 I’m constantly learning and exploring new technologies, with a keen interest in AI, machine learning, and web development.
 - 👯 I’m looking to collaborate on exciting projects that can make a difference.
 - 💬 Ask me about anything related to tech, coding, or innovation.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [vritesh066@gmail.com](mailto:vritesh066@gmail.com)
 - ⚡ Fun fact: I love to solve puzzles and play video games in my free time.
 
 ## 🚀 Skills
 
-- **Languages:** Python, JavaScript, Java, C++
+- **Languages:** Python, JavaScript, C++
 - **Web Development:** HTML, CSS, React, Node.js
-- **Data Science & AI:** TensorFlow, PyTorch, Pandas, NumPy
+- **Data Science & AI:** Transformers, Pandas, NumPy
 - **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Azure
 
 ## 📈 GitHub Stats
