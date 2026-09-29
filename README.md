@@ -42,28 +42,19 @@ I enjoy building practical AI applications that combine LLMs with reliable softw
 
 ### 🔗 AI Frameworks & Tools
 - LangChain
-- LiteLLM
-- OpenAI
-- Azure OpenAI
-- FAISS
-- Chroma
-- Qdrant
-- Pinecone
-- vLLM
+- LiteLLM, OpenAI, Azure OpenAI, vLLM
+- FAISS, Chroma, Qdrant, Pinecone
 
 ### ☁️ Cloud & DevOps
 - Microsoft Azure
 - Azure AI Search
-- Azure Storage
 - Docker
 - Kubernetes
 - Git / GitHub
-- CI/CD
+- CI/CD | Jenkins
 
 ### 💻 Frontend
-- React
-- React Native
-- Expo
+- React (Basic)
 
 ---
 
