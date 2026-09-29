@@ -1,4 +1,4 @@
-# Hi there, I'm RvTechiNNovate! 👋
+# Hi there, I'm Ritesh! 👋
 
 I'm a Software Engineer focused on **Generative AI, Agentic AI, RAG, and backend application development**.
 
@@ -114,35 +114,11 @@ Working with local LLM deployments using technologies such as **vLLM** for appli
 - Scalable AI deployments
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RvTechiNNovate&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RvTechiNNovate&layout=donut&theme=tokyonight" height="180"/>
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RvTechiNNovate&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RvTechiNNovate&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RvTechiNNovate&theme=tokyo-night)](https://github.com/RvTechiNNovate)
 
 ---
 
